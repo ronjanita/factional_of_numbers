@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\roni\\codes_repository_local\\factorial_of_number\\factorial_of_numbers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6BEF07D-14D0-4007-9F53-32E64D674518}|factorial_of_numbers\\factorial_of_numbers.csproj|c:\\users\\roni\\codes_repository_local\\factorial_of_number\\factorial_of_numbers\\factorial_of_numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6BEF07D-14D0-4007-9F53-32E64D674518}|factorial_of_numbers\\factorial_of_numbers.csproj|solutionrelative:factorial_of_numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\roni\\codes_repository_local\\factorial_of_number\\factorial_of_numbers\\factorial_of_numbers\\Program.cs",
+              "RelativeDocumentMoniker": "factorial_of_numbers\\Program.cs",
+              "ToolTip": "C:\\Users\\roni\\codes_repository_local\\factorial_of_number\\factorial_of_numbers\\factorial_of_numbers\\Program.cs",
+              "RelativeToolTip": "factorial_of_numbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T11:55:58.837Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
